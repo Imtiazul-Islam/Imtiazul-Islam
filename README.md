@@ -18,13 +18,9 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in softw
 - **Tools:** Git, Docker, VS Code, Postman
 - **Other:** REST APIs, CI/CD, Cloud (AWS, Azure basics)
 
-## 📈 GitHub Stats
-
-![Imtiazul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imtiazul-Islam&show_icons=true&theme=radical)
-
 ## ⚡ Fun Fact
 
-I love exploring new technologies and believe in lifelong learning. When I'm not coding, you’ll find me reading, traveling, or playing chess.
+I love exploring new technologies and believe in lifelong learning. When I'm not coding, you’ll find me reading, traveling, or playing games.
 
 ---
 
